@@ -45,9 +45,6 @@ void xuLyLuaChon(int luaChon) {
             printf(">> Tìm kiếm công việc...\n");
             break;
         case 7:
-            printf(">> Lưu dữ liệu vào tệp...\n");
-            break;
-        case 8:
             printf(">> Tải dữ liệu từ tệp...\n");
             break;
         case 0:
