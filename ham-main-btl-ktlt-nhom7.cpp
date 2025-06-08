@@ -28,6 +28,7 @@ void xuLyLuaChon(int luaChon) {
             break;
         case 2:
             printf(">> Chức năng Quản lý công việc đang được xử lý...\n");
+            quanLyCongViec();
             break;
         case 3:
             printf(">> Chức năng Phân công công việc đang được xử lý...\n");
