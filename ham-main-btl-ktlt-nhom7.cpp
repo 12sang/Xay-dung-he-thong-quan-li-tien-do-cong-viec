@@ -54,10 +54,11 @@ void xuLyLuaChon(int luaChon) {
 }
 
 int main(){
-  
-
-
-
-
-
+ int luaChon;
+    do {
+        hienThiMenu();
+        scanf("%d", &luaChon);
+        xuLyLuaChon(luaChon);
+    } while (luaChon != 0);
+    return 0;
 }
