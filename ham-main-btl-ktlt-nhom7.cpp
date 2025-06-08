@@ -45,6 +45,7 @@ void xuLyLuaChon(int luaChon) {
             break;
         case 7:
             printf(">> Tải dữ liệu từ tệp...\n");
+            xuat_file();
             break;
         case 0:
             printf(">> Đang thoát chương trình...\n");
