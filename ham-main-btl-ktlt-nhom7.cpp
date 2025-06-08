@@ -25,6 +25,7 @@ void xuLyLuaChon(int luaChon) {
     switch(luaChon) {
         case 1:
             printf(">> Chức năng Quản lý nhân viên đang được xử lý...\n");
+            quanLyNhanVien();
             break;
         case 2:
             printf(">> Chức năng Quản lý công việc đang được xử lý...\n");
