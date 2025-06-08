@@ -14,8 +14,7 @@ void hienThiMenu() {
     printf("4. Cập nhật tiến độ công việc\n");
     printf("5. Xem báo cáo tiến độ\n");
     printf("6. Tìm kiếm công việc\n");
-    printf("7. Lưu dữ liệu vào tệp\n");
-    printf("8. Tải dữ liệu từ tệp\n");
+    printf("7. Tải dữ liệu từ tệp\n");
     printf("0. Thoát chương trình\n");
     printf("====================================================================\n");
     printf("Nhập lựa chọn của bạn: ");
