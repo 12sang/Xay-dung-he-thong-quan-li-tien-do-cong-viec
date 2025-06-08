@@ -54,7 +54,7 @@ int c=0;
     return ;
 }
 
-void quanLyNhanVien() {
+void xuat_file() {
     int choice;
     
     do {
